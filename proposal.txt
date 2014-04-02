@@ -1,0 +1,9 @@
+- Abstract:
+Irreversibility is the enemy of the software engineer; it adds useless complexity and produces frictions that slow down the development process. At the same time it is an inevitable artifact of development, so it has to be somehow tamed into submission. The successful process uses, without knowing it, techniques that make it mostly-reversible. It is due time that we take the effects of reversibility into account, and design our processes and tools with the explicit goal of making it easy to revert time. Software architecture, continuous deployment and decision-making will be used as case-studies.
+
+- Info:
+The main ideas were outlined in a series of blog posts:
+  http://tech.moveinblue.com/post/22751270662/reversible-engineering-part-1-software-development
+  http://tech.moveinblue.com/post/22860006526/reversible-engineering-part-2-devops
+  http://tech.moveinblue.com/post/23414460113/reversible-engineering-part-3-management
+I have found them to be really useful in my daily practice, and I think that most engineers would benefit from them.
